@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B project\\Bank Extension 2\\Bank Extension 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415B5815-3B89-4D8E-A5D4-112FB888160E}|Bank Extension 2.vcxproj|C:\\C\u002B\u002B project\\Bank Extension 2\\Bank Extension 2\\Bank Extension 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{415B5815-3B89-4D8E-A5D4-112FB888160E}|Bank Extension 2.vcxproj|solutionrelative:Bank Extension 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank Extension 2.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B project\\Bank Extension 2\\Bank Extension 2\\Bank Extension 2.cpp",
+              "RelativeDocumentMoniker": "Bank Extension 2.cpp",
+              "ToolTip": "C:\\C\u002B\u002B project\\Bank Extension 2\\Bank Extension 2\\Bank Extension 2.cpp",
+              "RelativeToolTip": "Bank Extension 2.cpp",
+              "ViewState": "AgIAABoGAAAAAAAAAAAgwDQGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T19:38:38.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
